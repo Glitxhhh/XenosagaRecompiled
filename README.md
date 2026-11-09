@@ -1,4 +1,6 @@
-<h1 align="center">Xenosaga Recompiled</h1>
+<p align="center">
+  <img src="assets/logo.png" alt="Xenosaga Recompiled" width="720">
+</p>
 
 <p align="center">
   A planned native PC recompilation project for the Xenosaga series.
